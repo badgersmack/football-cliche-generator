@@ -20,7 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="82b43c05-7a80-49a5-9dfb-6fa698c3a794" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/manager.js" beforeDir="false" afterPath="$PROJECT_DIR$/manager.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +49,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -68,7 +69,7 @@
       <workItem from="1591200753077" duration="3462000" />
       <workItem from="1591344041835" duration="4568000" />
       <workItem from="1591349447694" duration="685000" />
-      <workItem from="1591350244597" duration="133000" />
+      <workItem from="1591350244597" duration="515000" />
     </task>
     <servers />
   </component>
@@ -88,9 +89,10 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="221" y="70" key="SettingsEditor" timestamp="1591350277002">
-      <screen x="0" y="23" width="1440" height="816" />
+    <state x="255" y="58" key="SettingsEditor" timestamp="1591350696253">
+      <screen x="0" y="23" width="1440" height="821" />
     </state>
     <state x="221" y="70" key="SettingsEditor/0.23.1440.816@0.23.1440.816" timestamp="1591350277002" />
+    <state x="255" y="58" key="SettingsEditor/0.23.1440.821@0.23.1440.821" timestamp="1591350696253" />
   </component>
 </project>
