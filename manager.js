@@ -1,6 +1,6 @@
 const cliche1 = [
     "I didn’t see the incident. ",
-    "At the end of the day ",
+    "At the end of the day. ",
     "The referee needs to take a long, hard look at himself. ",
     "I accept responsibility for the loss. ",
     "There was a lot of honesty in that dressing room. ",
@@ -11,7 +11,7 @@ const cliche1 = [
     "I couldn’t be prouder of the lads today. ",
     "He’ll learn from that. ",
     "The referee seemed determined to be the centre of attention today. ",
-    "To be fair "
+    "To be fair. "
 ]
 
 const cliche2 = [
