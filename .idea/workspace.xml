@@ -21,9 +21,7 @@
   <component name="ChangeListManager">
     <list default="true" id="82b43c05-7a80-49a5-9dfb-6fa698c3a794" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manager.js" beforeDir="false" afterPath="$PROJECT_DIR$/manager.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pundit.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,6 +72,7 @@
       <workItem from="1591350244597" duration="1113000" />
       <workItem from="1591474681255" duration="2777000" />
       <workItem from="1591477621618" duration="739000" />
+      <workItem from="1591479209724" duration="239000" />
     </task>
     <servers />
   </component>
@@ -93,10 +92,10 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="603" y="301" key="#Notifications" timestamp="1591474795064">
+    <state x="603" y="301" key="#Notifications" timestamp="1591479217503">
       <screen x="0" y="23" width="1440" height="816" />
     </state>
-    <state x="603" y="301" key="#Notifications/0.23.1440.816@0.23.1440.816" timestamp="1591474795064" />
+    <state x="603" y="301" key="#Notifications/0.23.1440.816@0.23.1440.816" timestamp="1591479217503" />
     <state x="221" y="70" key="SettingsEditor" timestamp="1591478653739">
       <screen x="0" y="23" width="1440" height="816" />
     </state>
