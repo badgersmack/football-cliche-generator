@@ -44,7 +44,75 @@ const cliche3 = [
 ]
 
 document.getElementById("button").addEventListener("click", randomCliche);
-function randomCliche() {document.getElementById("result").innerHTML = cliche1[Math.floor(Math.random()*cliche1.length)] +
+function randomCliche() {document.getElementById("result").innerHTML =
+    cliche1[Math.floor(Math.random()*cliche1.length)] +
     cliche2[Math.floor(Math.random()*cliche2.length)] +
     cliche3[Math.floor(Math.random()*cliche3.length)]};
 
+const analysis1 = [
+    "he's lost the dressing room.",
+    "he fell into the offside trap.",
+    "he's got genuine pace.",
+    "away goals count double.",
+    "it could be a cricket score.",
+    "they're a team that likes to play football.",
+    "you know he's got that in his locker.",
+    "this game needs a goal.",
+    "he certainly knows where the goal is.",
+    "if that was on target, it would have been a goal.",
+    "that's schoolboy defending.",
+    "he's flung one into the mixer.",
+    "they've parked the bus.",
+    "what a goal that would have been.",
+    "there's a bit of 'handbags' going on there.",
+    "this is Beckham territory.",
+    "that was a great cross but there was no one there.",
+    "that was a long ball to no one."
+]
+
+
+document.getElementById("commentary").addEventListener("click", commentary);
+function commentary() {
+    document.getElementById("nonsense").innerHTML =
+        "You see Clive, " + analysis1[Math.floor(Math.random()*analysis1.length)]};
+
+const postMatch1 = [
+    "goals wins games. ",
+    "they scored too early. ",
+    "it's a good squad on paper. ",
+    "he just has that extra yard of pace. ",
+    "it's an amazing achievement for a small provincial club. ",
+    "it's been a game of two halves. ",
+    "you can't win the title in August, but you can lose it. "
+]
+
+const postMatch2 = [
+    "There were some tired legs out there. ",
+    "It's like a cup final for them. ",
+    "He's a top top player. ",
+    "He was in acres of space. ",
+    "He's a no-nonsense player. ",
+    "Not for me Clive. "
+]
+
+const postMatch3 = [
+
+    "Is he in the same class as your Rooney's, your Lampards?",
+    "He's got a cultured left foot.",
+    "He gave 110% today.",
+    "But can they do it on a wet tuesday night in Stoke?",
+    "It was real Roy of the Rovers stuff.",
+    "The supporters are in dream land.",
+    "It's squeaky bum time.",
+    "They were always there or thereabouts."
+]
+
+
+document.getElementById("idiots").addEventListener("click", gibber);
+function gibber() {
+    document.getElementById("myWord").innerHTML =
+        "The thing is Jeff, " +
+        postMatch1[Math.floor(Math.random()*postMatch1.length)] +
+        postMatch2[Math.floor(Math.random()*postMatch2.length)] +
+        postMatch3[Math.floor(Math.random()*postMatch3.length)]
+}
